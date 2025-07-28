@@ -4,7 +4,7 @@
 // Incrementing CACHE_VERSION will kick off the install event and force
 // previously cached resources to be updated from the network.
 /** @type {string} */
-const CACHE_VERSION = '1753613010|4059348207';
+const CACHE_VERSION = '1753679008|32460300';
 /** @type {string} */
 const CACHE_PREFIX = 'UniQuest-sw-cache-';
 const CACHE_NAME = CACHE_PREFIX + CACHE_VERSION;
